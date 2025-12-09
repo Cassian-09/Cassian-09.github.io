@@ -3,18 +3,17 @@ layout: default
 title: Accueil - Mathématiques Appliquées
 ---
 
-# 👋 Bienvenue sur mon Portfolio Académique
+# Bienvenue sur mon site
 
-Je suis **Cassian**, étudiant en **Master 2 de Mathématiques** (Spécialité : [Précisez votre spécialité : Ex. Analyse Numérique, Probabilités, Logique]).
+Je suis Cassian Dupont-Rozé, actuellement étudiant en Master 2 Recherche de Mathématiques à l'université de Picardie Jules Verne.
 
-Ce site est dédié à la présentation de mes travaux académiques : mon mémoire de fin d'études, mes projets de recherche, ainsi que les supports de cours et de TD développés durant mon cursus.
+Ce site est dédié à la présentation de mes travaux académiques : mes mémoires de master, mes projets de recherche, ainsi que les supports de cours et de TD développés durant mon cursus.
 
 ---
 
-## 📌 Sections Principales
+## Sections Principales
 
-* [**Mon Mémoire et ma Recherche**](#): Accès à mon mémoire de M2 et mes publications.
-* [**Cours et TD**](#): Mes notes structurées pour les UE de M1 et M2.
-* [**Projets & Code**](#): Implémentations (Python, Matlab...) liées à mes projets.
+* [**Enseignement**](#): Mes notes structurées pour les UE de M1 et M2.
+* [**Recherche**](#): Implémentations (Python, Matlab...) liées à mes projets.
 
 N'hésitez pas à me contacter par email pour toute question ou collaboration.
