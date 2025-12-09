@@ -13,7 +13,7 @@ Ce site est dédié à la présentation de mes travaux académiques : mes mémoi
 
 ## Sections Principales
 
-* [**Enseignement**](#): Mes notes structurées pour les UE de M1 et M2.
-* [**Recherche**](#): Implémentations (Python, Matlab...) liées à mes projets.
+* [**Enseignement**](#)
+* [**Recherche**](#)
 
 N'hésitez pas à me contacter par email pour toute question ou collaboration.
