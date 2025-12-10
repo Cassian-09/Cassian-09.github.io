@@ -9,8 +9,13 @@ Phrase pour se présenter et présenter le site.
 
 ---
 
-* [**Enseignement**](#)
-* [**Recherche**](#)
-* [**Mémoires de Master**](/memoires/) : Accès à mes mémoires de M1 et de M2.
+## Sections Principales (Navigation)
+
+* [**Enseignement**](/memoires-et-cours/) 
+    * Phrase pour explisuer ce qu'il y'a dans cette section.
+* [**Recherche & Projets**](#) 
+    * Phrase pour explisuer ce qu'il y'a dans cette section.
+
+N'hésitez pas à me contacter par email pour toute question ou collaboration.
 
 
