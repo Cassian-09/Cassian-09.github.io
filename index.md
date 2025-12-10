@@ -12,9 +12,9 @@ Phrase pour se présenter et présenter le site.
 ## Sections Principales 
 
 * [**Enseignement**](/enseignement/) 
-    * Phrase pour explisuer ce qu'il y'a dans cette section.
+    * Phrase pour expliquer ce qu'il y'a dans cette section.
 * [**Recherche & Projets**](#) 
-    * Phrase pour explisuer ce qu'il y'a dans cette section.
+    * Phrase pour expliquer ce qu'il y'a dans cette section.
 
 ---
 
