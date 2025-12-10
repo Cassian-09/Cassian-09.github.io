@@ -13,7 +13,7 @@ Phrase pour se présenter et présenter le site.
 
 * [**Enseignement**](/enseignement/) 
     * Phrase pour expliquer ce qu'il y'a dans cette section.
-* [**Recherche & Projets**](#) 
+* [**Recherche**](#) 
     * Phrase pour expliquer ce qu'il y'a dans cette section.
 
 ---
