@@ -8,8 +8,9 @@ permalink: /enseignement/
 
 Présentation de la page.
 
+---
 
 * [**Mémoires de Master**](/memoires/) 
-  * Présenter la section.
+  * Phrase pour explisuer ce qu'il y'a dans cette section.
 
 ---
