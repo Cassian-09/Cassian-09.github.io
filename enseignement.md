@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hub Enseignement
+title: Enseignement
 permalink: /enseignement/
 ---
 
