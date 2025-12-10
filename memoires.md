@@ -4,13 +4,11 @@ title: Mémoires de masters
 permalink: /memoires/
 ---
 
-# 📚 Travaux de Recherche et Cours
+# Mémoires de Master
 
-Cette section regroupe mes principaux travaux universitaires, mémoires et supports de cours structurés.
+Phrase pour présenter cette page.
 
-## Mémoires de Master
-
-### Mémoire de Master 1 : Groupes finis comme union de sous-groupes propres.
+## Mémoire de Master 1 : Groupes finis comme union de sous-groupes propres.
 
 **Sujet :** [Décrire brièvement le sujet].
 **Période :** Année académique 2023-2024.
@@ -19,7 +17,7 @@ Cette section regroupe mes principaux travaux universitaires, mémoires et suppo
 
 ---
 
-### Mémoire de Master 2 : [Titre de votre Mémoire M1]
+## Mémoire de Master 2 : [Titre de votre Mémoire M1]
 
 **Sujet :** [Décrire brièvement le sujet].
 **Période :** Année académique 2025-2026.
