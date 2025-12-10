@@ -7,7 +7,7 @@ baseurl: ""
 url: "https://Cassian-09.github.io"
 
 # --- Thème et plugins Jekyll ---
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 
 plugins:
   - jekyll-remote-theme
