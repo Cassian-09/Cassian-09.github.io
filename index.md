@@ -15,6 +15,6 @@ Ce site est dédié à la présentation de mes travaux académiques : mes mémoi
 
 * [**Enseignement**](#)
 * [**Recherche**](#)
-* [**Mémoires de Master**](/memoires-et-cours/) : Accès à mes mémoires de M1 et de M2.
+* [**Mémoires de Master**](/memoires/) : Accès à mes mémoires de M1 et de M2.
 
 N'hésitez pas à me contacter par email pour toute question ou collaboration.
