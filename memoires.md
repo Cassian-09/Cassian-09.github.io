@@ -20,7 +20,7 @@ Phrase pour présenter cette page.
 
 ---
 
-## Mémoire de Master 2 : [Titre de votre Mémoire M1]
+## Mémoire de Master 2 
 
 **Sujet :** [Titre de votre Mémoire M1].
 
