@@ -9,9 +9,9 @@ Phrase pour se présenter et présenter le site.
 
 ---
 
-## Sections Principales (Navigation)
+## Sections Principales 
 
-* [**Enseignement**](/memoires-et-cours/) 
+* [**Enseignement**](/enseignement/) 
     * Phrase pour explisuer ce qu'il y'a dans cette section.
 * [**Recherche & Projets**](#) 
     * Phrase pour explisuer ce qu'il y'a dans cette section.
