@@ -14,7 +14,7 @@ Phrase pour présenter cette page.
 
 **Période :** Année académique 2023-2024.
 
-**Dèrnière modification du document déposé :** 09 décembre 2025. 
+**Dèrnière modification du document déposé :** 09 décembre 2025.
 
 [**Mémoire de M1 (PDF)**](/documents/Mémoire_M1.pdf)
 
