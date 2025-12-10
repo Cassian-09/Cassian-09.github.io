@@ -16,6 +16,8 @@ Phrase pour se présenter et présenter le site.
 * [**Recherche & Projets**](#) 
     * Phrase pour explisuer ce qu'il y'a dans cette section.
 
-N'hésitez pas à me contacter par email pour toute question ou collaboration.
+---
+
+Mettre les infos, le CV, le mail, etc.
 
 
