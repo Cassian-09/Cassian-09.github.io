@@ -11,6 +11,6 @@ Présentation de la page.
 ---
 
 * [**Mémoires de Master**](/memoires/) 
-  * Phrase pour explisuer ce qu'il y'a dans cette section.
+  * Phrase pour expliquer ce qu'il y'a dans cette section.
 
 ---
