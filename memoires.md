@@ -8,9 +8,9 @@ permalink: /memoires/
 
 Phrase pour présenter cette page.
 
-## Mémoire de Master 1 : Groupes finis comme union de sous-groupes propres.
+## Mémoire de Master 1
 
-**Sujet :** [Décrire brièvement le sujet].
+**Sujet :** [: Groupes finis comme union de sous-groupes propres].
 **Période :** Année académique 2023-2024.
 
 [**Mémoire de M1 (PDF)**](/documents/Mémoire_M1.pdf)
@@ -19,7 +19,7 @@ Phrase pour présenter cette page.
 
 ## Mémoire de Master 2 : [Titre de votre Mémoire M1]
 
-**Sujet :** [Décrire brièvement le sujet].
+**Sujet :** [Titre de votre Mémoire M1].
 **Période :** Année académique 2025-2026.
 
 [**Mémoire de M2 (PDF)**](/documents/Brouillon_mémoire_M2.pdf)
